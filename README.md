@@ -2,13 +2,15 @@
 
 # 必須要件
 
-- [rustup]
+- [rustup] 最新版
 - [rustfmt]
-- [wasm-pack]
+- [wasm-pack] 最新版
+- [Node.js] バージョンは [.node-version](./.node-version) 参照
 
 [rustup]: https://rust-lang.github.io/rustup/
 [rustfmt]: https://github.com/rust-lang/rustfmt
 [wasm-pack]: https://rustwasm.github.io/wasm-pack/
+[Node.js]: https://nodejs.org/ja/
 
 # フォルダ構成
 
